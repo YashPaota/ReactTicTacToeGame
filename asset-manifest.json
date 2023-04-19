@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactTicTacToeGame/static/css/main.ed8328bb.css",
+    "main.js": "/ReactTicTacToeGame/static/js/main.88f8ef1d.js",
+    "index.html": "/ReactTicTacToeGame/index.html",
+    "main.ed8328bb.css.map": "/ReactTicTacToeGame/static/css/main.ed8328bb.css.map",
+    "main.88f8ef1d.js.map": "/ReactTicTacToeGame/static/js/main.88f8ef1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed8328bb.css",
+    "static/js/main.88f8ef1d.js"
+  ]
+}
